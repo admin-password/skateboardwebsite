@@ -1,4 +1,4 @@
-# Clockwork Skateboarding
+# Hotshot Skateboarding
 
 Welcome to the website!
 
